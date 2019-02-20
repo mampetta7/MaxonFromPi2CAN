@@ -1,6 +1,5 @@
 # MaxonFromPi2CAN
-Controls maxon motor controller from Pi using Pi2CAN adaptor board from SKPang
-The board runs on socket CAN. 
+Controls maxon motor controller from Pi using Pi2CAN adaptor board from SKPang. The board runs on socket CAN. 
 
 // Bring up socket CAN by typing the following command in the terminal
 
